@@ -1,0 +1,18 @@
+Brett Carter
+brett.carter@wsu.edu
+CS360
+Word Pairs assignment
+
+discription:
+This program will read in groups of two words at a time from a file and concatenating them into one string. It will then add these into a hashtable. Once the file has been read in it will display in order of highest count to lowest count the frequecy of the word pairs.
+
+Files:
+hashtable.c
+hashtable.h
+main.c
+getWord.c
+Makefile
+README
+
+Errors:
+My program still seg. faults at this point. The hashtable works properly. The issue now is creating the Node* array and getting at the count of each and comparing them with qsort.

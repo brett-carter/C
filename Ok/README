@@ -1,0 +1,13 @@
+Brett Carter
+brett.carter@wsu.edu
+
+Description:
+	This program takes any word from the user as input on running the program. It will look through the provided
+	Websters dictionary file and determine if the word exists in the dictionary. If it does it will return "Yes"
+	if not, it will return "No".
+
+Files:
+	Makefile
+	ok.c
+	README
+	webster	

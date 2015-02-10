@@ -1,0 +1,12 @@
+Brett Carter
+brett.carter@wsu.edu
+CS360 - Systems Programing
+
+Description:
+	This program was to act the same as an "ls" command in the command prompt. Listing files and subfolders
+	in the specified directory or current working directory if none is given.
+
+Files:
+	Makefile
+	README
+	Readable.c

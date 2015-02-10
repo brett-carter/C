@@ -1,0 +1,13 @@
+Brett Carter
+brett.carter@wsu.edu
+CS360 - Systems Programming
+Final Project - MFTP Server
+
+Description:
+	This project was to recreate a ssh client server. Connecting the client to the server using sockets and with user commands list, get, and put files to the server side.
+
+files:
+	Makefile
+	README
+	mftp.c
+	mftpserve.c

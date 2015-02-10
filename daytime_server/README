@@ -1,0 +1,12 @@
+Brett Carter
+brett.carter@wsu.edu
+CS360 - Systems Programing
+day-time client and server
+
+Description:
+	This assignment was to create a TCP connection between a client and server program. The client would connect to the server via a socket and get returned the current date and time. The client will then print out the date and time received.
+
+Files:
+	dayserve.c
+	daytime.c
+	README
